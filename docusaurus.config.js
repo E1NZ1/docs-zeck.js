@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.jpg',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -53,8 +53,8 @@ const config = {
       navbar: {
         title: 'Zeck.js',
         logo: {
-          alt: 'zeck.jz',
-          src: 'img/logo.svg',
+          alt: 'zeck.js',
+          src: 'img/zeck.png',
         },
         items: [
           {
