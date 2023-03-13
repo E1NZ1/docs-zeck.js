@@ -30,8 +30,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Zeck.js`}
+      description="LightWeight Npm package for discord.js<head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
