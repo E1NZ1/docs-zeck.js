@@ -5,7 +5,6 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         zeck.js is easy to use. only 1 or 2 features might be complicated.
@@ -14,7 +13,6 @@ const FeatureList = [
   },
   {
     title: 'LightWeight',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
         zeck.js is lightweight as it doesn't consume much memory.
