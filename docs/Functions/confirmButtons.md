@@ -47,5 +47,10 @@ confirmButtons(interaction, {
 ```
 
 | Options | Description | Required |
-| ------- | ----------- | ----- |
+| ---------- | ---------------- | ----- |
 | embed | embed to show | ✅️ |
+| authorOnly | authorOnly message | ❌️ |
+| yes | yes button options | ❌️ |
+| no | no button options | ❌️ |
+
+
