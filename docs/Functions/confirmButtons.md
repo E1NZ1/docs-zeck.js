@@ -33,6 +33,7 @@ confirmButtons(interaction, {
                 interaction.editReply({
                     content: `Content to show when pressed yes`,
                 });
+            }
             if (confirm === "no") {
                 interaction.editReply({
                     content: `Content to show when pressed no`,
