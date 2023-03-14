@@ -55,3 +55,8 @@ confirmButtons(interaction, {
 | no | no button options | ❌️ |
 
 
+## ScreenShots
+
+![c1](../sam/c1.jpg)
+
+![c1](../sam/c2.jpg)
