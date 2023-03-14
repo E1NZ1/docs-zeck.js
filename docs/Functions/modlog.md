@@ -27,4 +27,4 @@ const reason = `reason here`;
 
 ## ScreenShots
 
-![modlog](https://github.com/E1NZ1/docs-zeck.js/blob/main/docs/sam/modlog.jpg)
+![modlog](../sam/modlog.jpg)
