@@ -57,6 +57,6 @@ confirmButtons(interaction, {
 
 ## ScreenShots
 
-![c1](../sam/c1.jpg)
+![c1](../sam/c.jpg)
 
 ![c1](../sam/c2.jpg)
