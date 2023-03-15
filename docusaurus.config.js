@@ -100,7 +100,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Zeck.js, Inc. AgniDevelopment.`,
+        copyright: `<br><br>Copyright © ${new Date().getFullYear()}  AgniDevelopment. npm i zeck.js<br><br>Not affiliated with Discord (or) Discord.js.`,
       },
       prism: {
         theme: lightCodeTheme,
