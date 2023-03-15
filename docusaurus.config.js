@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Zeck.js',
   tagline: 'lightweight npm package for discord.js',
-  url: 'https://docs-zeck-js.vercel.app',
+  url: 'https://zeck.js.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
