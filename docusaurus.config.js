@@ -63,6 +63,12 @@ const config = {
           },
         ],
       },
+      announcementBar: {
+      id: "announce",
+      content: "Join our discord server. https://discord.gg/wxkmB2UgJD",
+      backgroundColor: "#18191a",
+      textColor: "#FFFFFF",
+      },
       footer: {
         style: 'dark',
         links: [
